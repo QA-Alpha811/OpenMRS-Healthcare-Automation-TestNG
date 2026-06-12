@@ -7,7 +7,7 @@
 
 **Automated GUI Testing Framework for OpenMRS Medical Record System**
 
-[Demo Site](https://demo.openmrs.org/) • [Report an Issue](https://github.com/seymaonol92/OpenMRS_Project3/issues)
+[Demo Site](https://demo.openmrs.org/)
 
 ## 📋 About The Project
 
