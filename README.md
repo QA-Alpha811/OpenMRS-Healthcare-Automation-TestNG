@@ -57,7 +57,7 @@ The project covers 10 comprehensive user stories:
 ## 📁 Project Structure
 
 ```
-OpenMRS_Project3/
+OpenMRS/
 │
 ├── 📄 pom.xml                          # Maven configuration
 ├── 📄 README.md                        # Project documentation
